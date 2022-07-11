@@ -1,0 +1,31 @@
+// 10 Russo-Turkish War
+// Navy Artillery  probably needed
+
+{
+  "country": "Russian",
+  "numberRecruitable": 5,
+  "alreadyRecruited": [
+    "Mikhall Alekseyev",
+    "Samsonov",
+    "Aleksey Kuropatkin", // good Inf
+    "Andrey Selivanov" // our Art
+  ],
+  "couldRecruit": [
+    // gen-ability: 44, spec-abilty : 55, 4 skills
+    "Nicholas 2nd", // Art Good
+    // gen-ability: 77, spec-abilty : 58, 5 skills
+    "Ivanov", //Art choose
+    // gen-ability: 47, spec-abilty : 30, 4 skills
+    "Plehwe", // cav
+    // gen-ability: 42 spec-abilty : 37, 3 skills
+    "Nikolai Ruzky",
+    // gen-ability: 48, spec-abilty : 55, 4 skills
+    "Aleksei Brusilov", // cav
+    // gen-ability: 61, spec-abilty : 50, 5 skills
+    "Ratko Dimitriev", // Art Ok
+    // gen-ability: 41, spec-abilty : 40, 5 skills
+    "Nikolaevich", //cav
+    // gen-ability: 56, spec-abilty : 50, 5 skills
+    "Maria Bochkareva" //inf choose
+  ]
+}

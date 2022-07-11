@@ -1,0 +1,26 @@
+{
+  "rifle": {
+    "none": 120,
+    "light": 140,
+    "medium": 100,
+    "heavy": 100,
+    "armor": 75,
+    "city": 75
+  },
+  "machine-gun": {
+    "none": 135,
+    "light": 120,
+    "medium": 165,
+    "heavy": 100,
+    "armor": 100,
+    "city": 75
+  },
+  "artillery": {
+    "none": 75,
+    "light": 75,
+    "medium": 75,
+    "heavy": 135,
+    "armor": 125,
+    "city": 150
+  },
+}

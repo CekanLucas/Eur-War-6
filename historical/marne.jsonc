@@ -1,0 +1,15 @@
+{
+  "country": "france",
+  "numberRecruitable": 7,
+  "alreadyRecruited": [
+    "Phillipe Petain", // select inf
+    "Ferdinand Foch", // select Art
+    "Esperey", // select Inf,
+    "Macmahon", // good inf
+    "Joseph Joffre" // good cav
+  ],
+  "couldRecruit": [
+    // gen-ability: 37, spec-abilty : 45, 3 skills
+    "Guepratte" // useless navy
+  ]
+}

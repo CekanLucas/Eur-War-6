@@ -1,0 +1,22 @@
+{
+  "country": "france",
+  "numberRecruitable": 7,
+  "alreadyRecruited": [
+
+    // gen-ability: 58, spec-abilty : 44, 4 skills
+    "Victor d'urbal", // bad inf
+    // gen-ability: 105, spec-abilty : 50, 5 skills
+    "Henri Gouraud", // decent inf
+    "Phillipe Petain", // select inf
+    "Ferdinand Foch", // select Art
+    "Esperey" // select Inf,
+  ],
+  "couldRecruit": [
+    // gen-ability: 56, spec-abilty : 50, 5 skills
+    "Macmahon", // good inf
+    // gen-ability: 65, spec-abilty : 61, 5 skills
+    "Joseph Joffre", // good cav
+    // gen-ability: 37, spec-abilty : 45, 3 skills
+    "Guepratte" // useless navy
+  ]
+}

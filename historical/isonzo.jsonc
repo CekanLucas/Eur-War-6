@@ -1,0 +1,22 @@
+{
+  "country": "serbia",
+  "numberRecruitable": 7,
+  "alreadyRecruited": [
+    // bad inf
+    // gen-ability: 61, spec-abilty : 46, 3 skills
+    "Carlo Caneva",
+    // bad art
+    // gen-ability: 76, spec-abilty : 28, 4 skills
+    "Ernesto Mombelli",
+    // select Cav
+    "Luigi Cadorna"
+  ],
+  "couldRecruit": [
+    // gen-ability: 64, spec-abilty : 60, 3 skills
+    "Garibaldi", //ing
+    // gen-ability: 40, spec-abilty : 45, 3 skills
+    "Alfredo Acton", //navy
+    // gen-ability: 70, spec-abilty : 47, 4 skills
+    "Duke of Aosta" // best navy
+  ]
+}

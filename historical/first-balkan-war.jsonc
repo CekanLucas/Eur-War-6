@@ -1,0 +1,20 @@
+{
+  "country": "Bulgaria",
+  "numberRecruitable": 5,
+  "alreadyRecruited": [
+    // gen-ability: 68, spec-abilty : 43, 3 skills
+    "Nikola Ivanov", // not impressive infantry
+    // good cavalry
+    "Georgi Todorov",
+    // gen-ability: 46, spec-abilty : 40, 3 skills
+    "Nikola Zhekov", // infantry fair
+    // gen-ability: 38, spec-abilty : 50, 4 skills
+    "Vladimir Vazov", // art probably best bulgarian
+    // gen-ability: 45, spec-abilty : 52, 4 skills
+    "Ivan Ficher" // cav general
+  ],
+  "couldRecruit": [
+    // gen-ability: 22, spec-abilty : 45, 3 skills
+    "Boyadzhiev" // infantry fair
+  ]
+}

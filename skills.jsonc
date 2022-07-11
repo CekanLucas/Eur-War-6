@@ -1,0 +1,112 @@
+// All skills
+
+{
+  "general": [
+    [
+      "Sailor",
+      "Increase the damage of army units by ${20}% when fighting in the sea"
+    ],
+    [
+      "Desert Fighting",
+      "Increase attack by ${5}% when fighting in the desert, mobility not affected by desert terrain"
+    ],
+    [
+      "Mountain Fighting",
+      "Increase attack by ${5}% when fighting in the mountain, mobility not affected by mountain terrain"
+    ],
+    [
+      "Jungle Fighting",
+      "Increase attack by ${5}% when fighting in the jungle, mobility not affected by jungle terrain"
+    ],
+    [
+      "Plains Fighting",
+      "Increase attack by ${5}% when fighting in the plains, mobility not affected by plains terrain"
+    ],
+    ["Tactics Master", "${12}% chance of a second attack after attack"],
+    ["Inspiration", "${12}% chance of morale rise after attack"],
+    [
+      "Cover",
+      "In land operation there is ${6}% chance of reducing demange by ${50}"
+    ],
+    ["Pierce", "${30}% chance to ignore enemy defences by ${5} when attacking"],
+    [
+      "Rage",
+      "Increase chance of critical strike by ${5}% and critical strike damage by ${5}% when HP is below 65$"
+    ],
+    [
+      "Dogfight",
+      "${15}% chance to freeze the enemy when attacking lasts ${1} round"
+    ],
+    [
+      "DefenceFormation",
+      "Increase army defence in the nearby ${1} grid by ${8}% same skill cannot be stacked"
+    ],
+    [
+      "Deterence",
+      "${10}% chance to lower enemy attack by ${9}% when attacking, Lasts ${1} round"
+    ],
+    [
+      "Suppress",
+      "${10}% chance to lower enemy defence by ${9}% when attacking, Lasts ${1} round"
+    ],
+    ["Revenge", "${10}% chance to counterattack twice when being attacked"]
+  ],
+  "Infantry": [
+    [
+      "Formation Master",
+      "Increase critical strike by ${6}% when using infantry to attack"
+    ],
+    [
+      "Battle Array",
+      "${20}% chance to ignore the effect of trenches when using infantry to attack"
+    ],
+    [
+      "Street Fighting",
+      "Increase attack by ${12}% when using infantry to fight in city facilities"
+    ],
+    ["Intercept", "${5} additional damage when infantry attack cavalry"],
+    ["Tunnel", "${5} additional damage when infantry attack city defence"],
+    ["Ambush", "${2}% chance to avoid enemy's attack when commanding infantry"],
+    [
+      "Infantry Commander",
+      "Increase infantry attack in the nearby ${1} grid by ${5}, same skill cannot be stacked"
+    ],
+    [
+      "Infantry Master",
+      "Increase stable output of combat effectiveness by ${2}% when infantry attack"
+    ]
+  ],
+  "Cavalry": [
+    ["Precision Strike", "${5} additional damage when using cavalry to attack"],
+    [
+      "Riding Master",
+      "Increase critical strike by ${6}% when using cavalry to attack"
+    ],
+    [
+      "Maneuver",
+      "${20}% chance to ignore the effect of barriers when using cavalry to attack"
+    ],
+    ["Station", "Increase attack by ${12}% when using cavalry to attack city facilities"],
+    ["Edge", "${5} additional damage when cavalry attack infantry"],
+    ["Suprise Attack", "The farther the cavalry move the higher damage cavalry deal"],
+    ["Cavalry Commander", "Increase ${5} cavalry attack in the nearby ${1} grid, same skill cannot be stacked"],
+    ["Cavalry Expert", "Increase stable output of combat effectiveness by ${3}% when cavalry attack"]
+  ],
+  "Artillery": [
+    ["Salvo", ""],
+    ["Artillery Master", ""],
+    ["Explosives", ""],
+    ["Land Fort", ""],
+    ["Storm Fortifications", ""],
+    ["Artillery Commander", ""],
+    ["Artillery Expert", ""]
+  ], 
+  "Navy": [
+    ["Line of Battle", ""],
+    ["Position", ""],
+    ["Navy Commander", ""],
+    ["Helmsman", ""],
+    ["Escort", ""],
+    ["Gunsight Master", ""]
+  ]
+}

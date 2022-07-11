@@ -1,0 +1,16 @@
+{
+  "country": "britain",
+  "numberRecruitable": 7,
+  "alreadyRecruited": [
+    // select art
+    "George Milne",
+    // select Cav
+    "De Robeck",
+  ],
+  "couldRecruit": [
+    // gen-ability: 62, spec-abilty : 48, 4 skills
+    "Reginald Bacon", //navy
+    // gen-ability: 50, spec-abilty : 40, 3 skills
+    "Horace Hood" // navy
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "country": "serbia",
+  "numberRecruitable": 7,
+  "alreadyRecruited": [
+    // select
+    "Radomir Putnik"],
+  "couldRecruit": [
+    // gen-ability: 85, spec-abilty : 52, 5 skills
+    "Stepanovich", //legendary cav
+    // gen-ability: 30, spec-abilty : 42, 4 skills
+    "Bojovic", // less good inf
+    // gen-ability: 22, spec-abilty : 45, 3 skills
+    "Sturm", // cav
+    // gen-ability: 34, spec-abilty : 64, 5 skills
+    "Micis"]
+}

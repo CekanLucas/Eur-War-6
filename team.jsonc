@@ -1,0 +1,69 @@
+{
+  "target": "Austria Europe 18th",
+  "poolSize": 10,
+  "generals": {
+    "Petain": {
+      "type": "inf",
+      "gen-ability": 90,
+      "spec-abilty": 80,
+      "skills": ["Assualt", "Infantry Commander", "Alert", "Intercept", "Cover"]
+    },
+    "Stepanovic": {
+      "type": "cav",
+      "gen-ability": 95,
+      "spec-abilty": 82,
+      "skills": [
+        "Precision Strike",
+        "Tactics Master",
+        "Manuever", //ignore barriers
+        "Inspiration",
+        "Cover"
+      ]
+    },
+    "Ivanov": {
+      "type": "art",
+      "gen-ability": 92,
+      "spec-abilty": 78,
+      "skills": [
+        "Salvo",
+        "Artillery Expert", //stable output
+        "Mountain Fighting",
+        "Tactic Master",
+        "Inspiration"
+      ]
+    },
+    "Maria Bochkareva": {
+      "type": "inf",
+      "gen-ability": 90,
+      "spec-abilty": 80,
+      "skills": ["Assualt", "Infantry Commander", "Alert", "Intercept", "Cover"]
+    },
+    "Brusilov": {
+      "type": "cav",
+      "gen-ability": 61,
+      "spec-abilty": 70,
+      "skills": [
+        "Precision Strike",
+        "Maneuver anti-barrier",
+        "Edge  anti-inf",
+        "Alert"
+      ]
+    },
+    "Nicholas 1": {
+      "type": "inf",
+      "gen-ability": 92,
+      "spec-abilty": 46,
+      "skills": ["Assualt", "Tunnel", "Plain Fighting", "Alert"]
+    },
+    "Bojavic": {
+      "type": "inf",
+      "gen-ability": 30,
+      "spec-abilty": 42,
+      "skills": ["Intercept", "Street Fighting", "Inspiration", "Revenge"]
+    },
+    "Esperey": "other",
+    "Aleksey Silanov": "other",
+    "randomir putic": "other",
+    "whatever": "probably navy or milne"
+  }
+}
