@@ -1,0 +1,36 @@
+{
+  "country": "Bulgaria",
+  "numberRecruitable": 5,
+  "alreadyRecruited": [
+    // gen-ability: 84, spec-abilty : 60, 5  skills
+    "Shafter", // impressive infantry
+    
+    // gen-ability: 50, spec-abilty : 57, 3 skills
+    "Joseph Hooker", // good cavalry
+
+    // gen-ability: 43, spec-abilty : 63, 4 skills
+    "A. Miles", // Artillery
+    
+    // gen-ability: 82, spec-abilty : 38, 4 skills
+    "Ulysses S. Grant", // slected Infantry
+
+    // gen-ability: 81, spec-abilty : 73, 4 skills
+    "Philip Sheridan", // cav general selected
+
+    // gen-ability: 31, spec-abilty : 44, 4 skills
+    "David Farragut" // Navy general selected
+  ],
+  "couldRecruit": [
+    // gen-ability: 66, spec-abilty : 35, 4 skills
+    "George McClellan", // Cav fair
+
+    // gen-ability: 56, spec-abilty : 50, 4 skills
+    "Sherman", // Cav fair
+
+    // gen-ability: 45, spec-abilty : 45, 3 skills
+    "George Meade", // Art bad
+
+    // gen-ability: 36, spec-abilty : 26, 3 skills
+    "Ambrose Burnside" // Infantry bad
+  ]
+}
